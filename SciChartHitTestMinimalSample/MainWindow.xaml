@@ -28,7 +28,6 @@
       </s:SciChartSurface.YAxis>
       <s:SciChartSurface.ChartModifier>
         <s:ModifierGroup>
-          <s:ZoomExtentsModifier />
           <s:RubberBandXyZoomModifier />
           <s:TooltipModifier />
         </s:ModifierGroup>
